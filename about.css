@@ -88,7 +88,6 @@ p {
 
 .image-about {
     margin-top: 20px;
-    margin-top: 20px;
     border-radius: 30px;
     width: 335px;
     height: 446px;
@@ -108,11 +107,7 @@ p {
 
     .flex-container {
         width: 704px;
-        margin: 0 auto;
         display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
     }
 
     .content-about {
